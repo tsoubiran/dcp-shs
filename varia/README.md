@@ -2,7 +2,7 @@
 
 ## 2022
 
-[**Le recours au consentement dans le traitements de données personnelles en SHS**](2022/principe2022--recours-consentement-shs.pdf)
+[**Le recours au consentement dans le traitements de données personnelles en SHS**](https://raw.githubusercontent.com/tsoubiran/dcp-shs/main/varia/2022/principe2022--recours-consentement-shs.pdf)
 <br/>
 Colloque du LIA [PRINciPe](https://ceraps.univ-lille.fr/recherches-en-cours/partenariats-internationaux/) *[La recherche en sciences sociales du point de vue des enquêté·es](https://ceraps.univ-lille.fr/nc/detail-event/colloque-du-lia-organise-par-le-ceraps-et-luniversite-de-montreal/)*, 24 février 2022 — Ceraps, Lille 
 
@@ -10,6 +10,6 @@ Colloque du LIA [PRINciPe](https://ceraps.univ-lille.fr/recherches-en-cours/part
 <br/>
 Après un rappel des éléments pertinents de la réglementation, l’utilisation du consentement ainsi que les conséquences d’un recours inconsidéré à son recueil seront illustrées par cas des pratiques.
 
-**lien :** [2022/principe2022--recours-consentement-shs.pdf](2022/principe2022--recours-consentement-shs.pdf)
+**lien :** [2022/principe2022--recours-consentement-shs.pdf](https://raw.githubusercontent.com/tsoubiran/dcp-shs/main/varia/2022/principe2022--recours-consentement-shs.pdf)
 
 
