@@ -2,7 +2,7 @@
 
 ## 2022
 
-**Le recours au consentement dans le traitements de données personnelles en SHS**
+**Le recours au consentement dans le traitement de données personnelles en SHS**
 <br/>
 Colloque du LIA [PRINciPe](https://ceraps.univ-lille.fr/recherches-en-cours/partenariats-internationaux/) *[La recherche en sciences sociales du point de vue des enquêté·es](https://ceraps.univ-lille.fr/nc/detail-event/colloque-du-lia-organise-par-le-ceraps-et-luniversite-de-montreal/)*, 24 février 2022 — Ceraps, Lille 
 <br/>
