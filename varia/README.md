@@ -1,5 +1,17 @@
 # Varia
 
+## 2023
+
+**Un droit à la limite. L’avènement de la protection des données en Europe**
+<br/>
+Présentation à la [semaine DATA–SHS ](https://www.msh-alpes.fr/actualites/semaine-data-shs-2023) — Grenoble, 11 décembre 2023
+<br/>
+[**présentation**](https://github.com/tsoubiran/dcp-shs/blob/main/varia/2023/pud-ga2023--un-droit-à-la-limite.pdf?raw=true)
+
+**Résumé :** Le traitement de données personnelles est un fait ancien largement antérieur aux débuts de l'informatique. Toutefois, ce n'est que dans les années 1960 que ces traitements commencèrent à faire l'objet d'une attention particulière amenant dès 1970 à l'adoption des premières législations nationales en la matière. Le plus souvent d'abord limitée, la portée de ces législations s'est ensuite rapidement étendue en Europe jusqu'à former un cadre juridique applicable à tout traitement de données personnelles.
+<br/>
+Cette présentation vise à inscrire l'avènement du droit de la protection des données dans le temps long du traitement des données personnelles. Pour ce faire, elle s'intéressera plus particulièrement à l'utilisation croissante des traitements de DCP comme moyen de l'exercice de droits ainsi qu'à l'automatisation de ces traitements à partir de la fin du ⅩⅠⅩ<sup>e</sup> siècle avec le développement de la mécanographie.
+
 ## 2022
 
 **Le recours au consentement dans le traitement de données personnelles en SHS**
